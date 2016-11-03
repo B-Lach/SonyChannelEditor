@@ -1,0 +1,23 @@
+{
+  "name": "sony_channel_editor",
+  "version": "0.0.1",
+  "description": "Organize your Sony TV Channel list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://B-Lach@github.com/B-Lach/SonyChannelEditor.git"
+  },
+  "author": "Benny Lach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Lach/SonyChannelEditor/issues"
+  },
+  "homepage": "https://github.com/B-Lach/SonyChannelEditor#readme",
+  "devDependencies": {
+    "electron": "^1.4.5"
+  }
+}
